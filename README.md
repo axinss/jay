@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axinss&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axinss&layout=compact)
+
+![Snake](https://raw.githubusercontent.com/axinss/jay/refs/heads/output/github-contribution-grid-snake-dark.svg)
